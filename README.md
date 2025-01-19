@@ -1,6 +1,6 @@
 # 🚀 Matrix Analyzer
 
-Try here (x.aipop.fun)[https://x.aipop.fun]
+Try here [x.aipop.fun](https://x.aipop.fun)
 
 ## 🌟 Project Overview
 
